@@ -1,5 +1,4 @@
-# Player-de-filmes-series-aimes
+# Player-de-filmes-series
 Um player para assistir: 
  - Filmes
  - Series
- - Animes
