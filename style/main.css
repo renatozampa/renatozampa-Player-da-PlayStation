@@ -1,5 +1,5 @@
 :root {
-    --vermelho: #e50914;
+    --vermelho: rgb(34, 106, 238);
     --preto: #141414;
 }
 
@@ -14,7 +14,7 @@
 
 body {
     background: var(--preto);
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Arial', Times, serif;
     color: white;
 }
 
@@ -47,7 +47,7 @@ header nav a:hover {
 
 .filme-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('/img/capa-twd.jpg');
+    background: linear-gradient(rgba(0, 0, 0, .50), rgba(0, 0, 0, .50)100%), url('/img/capa-principal.png');
     height: 400px;
     background-size: cover;
     display: flex;
@@ -93,4 +93,14 @@ header nav a:hover {
 
 .filme-principal .container {
     width: 70%;
+}
+
+.box-filme {
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carousel-filmes {
+    margin-top: 5px;
 }
