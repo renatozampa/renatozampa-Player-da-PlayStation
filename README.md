@@ -1,4 +1,2 @@
-# Player-de-filmes-series
-Um player para assistir: 
- - Filmes
- - Series
+# Player Da PlayStation
+Um player de jogos 
